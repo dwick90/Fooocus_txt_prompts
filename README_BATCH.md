@@ -6,7 +6,7 @@ Automatikusan generál képeket TXT fájlokból beolvasott promptok alapján, 32
 
 1. Klónozd le ezt a repository-t:
 ```bash
-git clone https://github.com/[YOUR-USERNAME]/Fooocus.git
+git clone https://github.com/dwick90/Fooocus_txt_prompts.git
 cd Fooocus
 ```
 
@@ -133,7 +133,7 @@ echo "new prompt 2" >> prompts/new_batch.txt
 
 Nyisd meg a `fooocus_batch_colab.ipynb` notebookot Google Colab-ban:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[YOUR-USERNAME]/Fooocus/blob/main/fooocus_batch_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dwick90/Fooocus_txt_prompts/blob/main/fooocus_batch_colab.ipynb)
 
 A notebook:
 1. Telepíti a Fooocus-t

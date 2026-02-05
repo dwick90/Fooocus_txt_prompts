@@ -16,7 +16,7 @@ This fork adds automatic batch processing capabilities to Fooocus, allowing you 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/[YOUR-USERNAME]/Fooocus.git
+git clone https://github.com/dwick90/Fooocus_txt_prompts.git
 cd Fooocus
 ```
 
@@ -41,7 +41,7 @@ python batch_processor.py
 
 ### Google Colab Usage
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[YOUR-USERNAME]/Fooocus/blob/main/fooocus_batch_colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dwick90/Fooocus_txt_prompts/blob/main/fooocus_batch_colab.ipynb)
 
 1. Click the badge above
 2. Run all cells
@@ -101,7 +101,7 @@ Same as the original Fooocus project (GPL-3.0).
 ## 🙏 Credits
 
 - Original Fooocus: [lllyasviel](https://github.com/lllyasviel)
-- Batch processing enhancement: [YOUR-USERNAME]
+- Batch processing enhancement: [dwick90](https://github.com/dwick90)
 
 ---
 
