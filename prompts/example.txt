@@ -1,0 +1,9 @@
+# Example prompts file for Fooocus Batch Processor
+# Lines starting with # are comments and will be ignored
+# Each line below is a separate prompt
+
+a beautiful sunset over mountains, highly detailed, 8k
+a cute cat sitting on a windowsill, photorealistic
+a futuristic city with flying cars, cyberpunk style
+a serene forest with a waterfall, nature photography
+a delicious pizza with melted cheese, food photography
